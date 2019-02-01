@@ -1,0 +1,11 @@
+/Users/bod/Documents/AdalDemo/AdalDemo/AdalDemo/bin/Debug/netstandard2.0/AdalDemo.deps.json
+/Users/bod/Documents/AdalDemo/AdalDemo/AdalDemo/bin/Debug/netstandard2.0/AdalDemo.dll
+/Users/bod/Documents/AdalDemo/AdalDemo/AdalDemo/bin/Debug/netstandard2.0/AdalDemo.pdb
+/Users/bod/Documents/AdalDemo/AdalDemo/AdalDemo/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/bod/Documents/AdalDemo/AdalDemo/AdalDemo/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+/Users/bod/Documents/AdalDemo/AdalDemo/AdalDemo/obj/Debug/netstandard2.0/AdalDemo.csproj.CoreCompileInputs.cache
+/Users/bod/Documents/AdalDemo/AdalDemo/AdalDemo/obj/Debug/netstandard2.0/AdalDemo.AssemblyInfoInputs.cache
+/Users/bod/Documents/AdalDemo/AdalDemo/AdalDemo/obj/Debug/netstandard2.0/AdalDemo.AssemblyInfo.cs
+/Users/bod/Documents/AdalDemo/AdalDemo/AdalDemo/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/bod/Documents/AdalDemo/AdalDemo/AdalDemo/obj/Debug/netstandard2.0/AdalDemo.dll
+/Users/bod/Documents/AdalDemo/AdalDemo/AdalDemo/obj/Debug/netstandard2.0/AdalDemo.pdb

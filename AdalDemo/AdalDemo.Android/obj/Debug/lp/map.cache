@@ -1,0 +1,16 @@
+AdalDemo
+DryIoc
+FormsViewGroup
+Microsoft.IdentityModel.Clients.ActiveDirectory
+Microsoft.IdentityModel.Clients.ActiveDirectory.Platform
+Prism
+Prism.DryIoc.Forms
+Prism.Forms
+System.Runtime
+Xamarin.Forms.Core
+Xamarin.Forms.Platform.Android
+Xamarin.Forms.Platform
+Xamarin.Forms.Xaml
+netstandard
+System.Diagnostics.Tools
+System.Reflection.Extensions

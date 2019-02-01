@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{7363DB37-7DA7-46B1-A258-A3D2758B4445}|Default">
+  <MonoDevelop.Ide.ItemProperties.AdalDemo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3952D61D-769F-4B3D-BD4B-CA926A723A85" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.ItemProperties.AdalDemo.Android PreferredExecutionTarget="Android.Nexus_5X_API_25" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/bod/Documents/AdalDemo/AdalDemo/AdalDemo/ViewModels/MainPageViewModel.cs" relfile="AdalDemo/AdalDemo/ViewModels/MainPageViewModel.cs" line="32" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
